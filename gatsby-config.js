@@ -1,6 +1,7 @@
 module.exports = {
   siteMetadata: {
     title: "podzo-gatsby",
+    siteUrl: `https://www.podzo.com`,
   },
   plugins: [
     "gatsby-plugin-sharp",
